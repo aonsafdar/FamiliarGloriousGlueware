@@ -8,5 +8,5 @@ while True:
     print('5) Exit')
 
     choice = input('Choose: ')
-    if choice == '1':
-        
+if choice == '1':
+    
